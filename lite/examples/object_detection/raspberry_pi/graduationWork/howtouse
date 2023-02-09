@@ -1,0 +1,6 @@
+detect.py - opencv program
+
+pystart.py - detect.py start
+
+python detect.py --model garbage220320_lite2.tflite - command
+  
