@@ -1,4 +1,4 @@
-# TensorFlow Examples
+<!--# TensorFlow Examples
 
 <div align="center">
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" /><br /><br />
@@ -33,4 +33,4 @@ To file an issue, use the tracker in the
 
 ## License
 
-[Apache License 2.0](LICENSE)
+[Apache License 2.0](LICENSE)-->
