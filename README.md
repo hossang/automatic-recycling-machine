@@ -40,3 +40,5 @@ To file an issue, use the tracker in the
 ![Raspberry pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+[![Video Label](http://img.youtube.com/vi/upFYBpaNzdk&t=82s/0.jpg)](https://youtu.be/upFYBpaNzdk&t=82s)
