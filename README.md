@@ -41,4 +41,10 @@ To file an issue, use the tracker in the
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+# automatic-recycling-machine
+
+## 1. 설치
+
+## 2. 사용법
+
 [![Video Label](http://img.youtube.com/vi/upFYBpaNzdk/0.jpg)](https://youtu.be/upFYBpaNzdk)
